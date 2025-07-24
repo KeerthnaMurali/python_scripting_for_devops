@@ -1,0 +1,4 @@
+{"host_id":"host-001","metric_name":"cpu.usage","value":51.2,"unit":"percent","timestamp":"2025-07-22T04:32:12Z"}
+{"host_id":"host-001","metric_name":"mem.free","value":984.1,"unit":"MB","timestamp":"2025-07-22T04:33:02Z"}
+{"host_id":"host-002","metric_name":"cpu.usage","value":56.0,"timestamp":"2025-07-22T04:35:05Z"}
+INVALID LINE MISSING QUOTE

@@ -1,0 +1,4 @@
+job_id,region,schedule_time,duration_min,description
+job-123,us-east-1,2025-07-21T03:30:00Z,60,Daily snapshot
+job-456,eu-west-2,2025-07-21T18:45:00Z,30,Config backup
+job-789,us-east-1,2025-07-23T02:15:00Z,31,Log archive

@@ -1,0 +1,3 @@
+2025-07-25T02:00:00Z INFO Host host-01 scan started
+2025-07-25T02:01:10Z INFO Host host-02 scan started
+2025-07-25T02:03:15Z ERROR Host host-01 failed policy 1001
