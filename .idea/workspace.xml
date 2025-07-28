@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f7ffb40-beed-41a3-af45-53e8f6038ddd" name="Changes" comment="day3 python challenge">
-      <change afterPath="$PROJECT_DIR$/Day 4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/backup_schedule_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/backups.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5/analyze.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5/summarize_metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/health.jsonl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/health_summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7/config_drift_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7/drift.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7/expected.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7/running.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/compliance.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/compliance_summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/policy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/scan.log" afterDir="false" />
+    <list default="true" id="8f7ffb40-beed-41a3-af45-53e8f6038ddd" name="Changes" comment="python challenges - day10">
+      <change afterPath="$PROJECT_DIR$/Day9/autoscale.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9/autoscaler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +49,9 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Day1_script.executor": "Run",
+    "Python.alert_report.executor": "Run",
     "Python.analyze_errors.executor": "Run",
+    "Python.autoscaler.executor": "Run",
     "Python.backup_schedule_report.executor": "Run",
     "Python.compliance_summary.executor": "Run",
     "Python.config_drift_report.executor": "Run",
@@ -75,15 +62,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/keerthnavivek/PycharmProjects/PythonProject1/Day3",
+    "last_opened_file_path": "/Users/keerthnavivek/PycharmProjects/PythonProject1/Day9",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day9" />
       <recent name="$PROJECT_DIR$/Day3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day10" />
       <recent name="$PROJECT_DIR$/Day1-timesheet" />
     </key>
   </component>
@@ -134,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753059781614</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="python challenges">
+      <option name="closed" value="true" />
+      <created>1753376965304</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753376965306</updated>
+    </task>
+    <task id="LOCAL-00006" summary="python challenges - day10">
+      <option name="closed" value="true" />
+      <created>1753664274990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753664274991</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,7 +147,9 @@
     <MESSAGE value="day 2 oython" />
     <MESSAGE value="day2 python script" />
     <MESSAGE value="day3 python challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="day3 python challenge" />
+    <MESSAGE value="python challenges" />
+    <MESSAGE value="python challenges - day10" />
+    <option name="LAST_COMMIT_MESSAGE" value="python challenges - day10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
