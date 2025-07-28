@@ -1,0 +1,8 @@
+10.0.0.1 - - [26/Jul/2025:13:00:00 +0000] "GET /api/login HTTP/1.1" 200 123 "-" "curl/7.68.0"
+10.0.0.2 - user1 [26/Jul/2025:13:05:10 +0000] "POST /api/data HTTP/1.1" 500 256 "-" "python-requests/2.25.1"
+10.0.0.3 - - [26/Jul/2025:13:15:22 +0000] "GET /health HTTP/1.1" 503 98 "-" "Go-http-client/1.1"
+10.0.0.4 - user2 [26/Jul/2025:14:10:45 +0000] "DELETE /api/item/123 HTTP/1.1" 404 142 "-" "PostmanRuntime/7.26.8"
+10.0.0.5 - - [26/Jul/2025:14:20:33 +0000] "GET /api/login HTTP/1.1" 502 179 "-" "curl/7.68.0"
+10.0.0.6 - - [26/Jul/2025:14:30:55 +0000] "GET /metrics HTTP/1.1" 200 210 "-" "Prometheus/2.22.0"
+MALFORMED LINE WITHOUT BRACKETS
+10.0.0.7 - - [26/Jul/2025:14:45:00 +0000] "PUT /api/update HTTP/1.1" 500 305 "-" "Java/11.0.8"
