@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f7ffb40-beed-41a3-af45-53e8f6038ddd" name="Changes" comment="python challenges - day10">
-      <change afterPath="$PROJECT_DIR$/Day9/autoscale.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9/autoscaler.py" afterDir="false" />
+    <list default="true" id="8f7ffb40-beed-41a3-af45-53e8f6038ddd" name="Changes" comment="python challenges - day11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,14 +60,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/keerthnavivek/PycharmProjects/PythonProject1/Day9",
+    "last_opened_file_path": "/Users/keerthnavivek/PycharmProjects/PythonProject1/Day1-timesheet",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Day9" />
+      <recent name="$PROJECT_DIR$/Day1-timesheet" />
+      <recent name="$PROJECT_DIR$/day2-log frequency analyzer" />
       <recent name="$PROJECT_DIR$/Day3" />
+      <recent name="$PROJECT_DIR$/Day 4" />
+      <recent name="$PROJECT_DIR$/Day5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Day10" />
@@ -139,7 +140,31 @@
       <option name="project" value="LOCAL" />
       <updated>1753664274991</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="python challenges - day10">
+      <option name="closed" value="true" />
+      <created>1753668056723</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753668056725</updated>
+    </task>
+    <task id="LOCAL-00008" summary="python challenges - day11">
+      <option name="closed" value="true" />
+      <created>1753668071855</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753668071855</updated>
+    </task>
+    <task id="LOCAL-00009" summary="python challenges - day11">
+      <option name="closed" value="true" />
+      <created>1753671886838</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753671886839</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -149,7 +174,8 @@
     <MESSAGE value="day3 python challenge" />
     <MESSAGE value="python challenges" />
     <MESSAGE value="python challenges - day10" />
-    <option name="LAST_COMMIT_MESSAGE" value="python challenges - day10" />
+    <MESSAGE value="python challenges - day11" />
+    <option name="LAST_COMMIT_MESSAGE" value="python challenges - day11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
