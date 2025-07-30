@@ -1,0 +1,26 @@
+[
+  {
+    "cluster": "us-west1",
+    "namespace": "prod",
+    "app": "payment",
+    "status": "Running"
+  },
+  {
+    "cluster": "us-west1",
+    "namespace": "prod",
+    "app": "payment",
+    "status": "CrashLoopBackOff"
+  },
+  {
+    "cluster": "us-east1",
+    "namespace": "prod",
+    "app": "payment",
+    "status": "Running"
+  },
+  {
+    "cluster": "us-east1",
+    "namespace": "prod",
+    "app": "auth",
+    "status": "Pending"
+  }
+]
