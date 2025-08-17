@@ -1,0 +1,64 @@
+{
+  "builds": [
+    {
+      "build_id": "abc123",
+      "duration_seconds": 240,
+      "status": "success",
+      "timestamp": "2025-07-30T08:15:22Z"
+    },
+    {
+      "build_id": "def456",
+      "duration_seconds": 450,
+      "status": "failure",
+      "timestamp": "2025-07-30T08:20:10Z"
+    },
+    {
+      "build_id": "ghi789",
+      "duration_seconds": 310,
+      "status": "success",
+      "timestamp": "2025-07-30T08:25:05Z"
+    },
+    {
+      "build_id": "jkl012",
+      "duration_seconds": 295,
+      "status": "unstable",
+      "timestamp": "2025-07-30T08:30:12Z"
+    },
+    {
+      "build_id": "mno345",
+      "duration_seconds": 125,
+      "status": "success",
+      "timestamp": "2025-07-30T08:35:45Z"
+    },
+    {
+      "build_id": "pqr678",
+      "duration_seconds": 600,
+      "status": "failure",
+      "timestamp": "2025-07-30T08:40:30Z"
+    },
+    {
+      "build_id": "stu901",
+      "duration_seconds": 180,
+      "status": "success",
+      "timestamp": "2025-07-30T08:45:00Z"
+    },
+    {
+      "build_id": "vwx234",
+      "duration_seconds": 525,
+      "status": "failure",
+      "timestamp": "2025-07-30T08:50:15Z"
+    },
+    {
+      "build_id": "yzA567",
+      "duration_seconds": 260,
+      "status": "success",
+      "timestamp": "2025-07-30T08:55:42Z"
+    },
+    {
+      "build_id": "BCD890",
+      "duration_seconds": 330,
+      "status": "success",
+      "timestamp": "2025-07-30T09:00:08Z"
+    }
+  ]
+}

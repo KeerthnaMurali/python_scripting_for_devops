@@ -1,0 +1,12 @@
+{
+  "serviceConfigs": [
+    {
+      "service": "auth",
+      "config": "0001abcd1234ef56|0002ghij7890kl12"
+    },
+    {
+      "service": "payment",
+      "config": "0001mnop3456qr78|0002stuv9012wx34|0003yzab5678cd90"
+    }
+  ]
+}

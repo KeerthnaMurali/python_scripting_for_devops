@@ -4,14 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f7ffb40-beed-41a3-af45-53e8f6038ddd" name="Changes" comment="readme">
-      <change afterPath="$PROJECT_DIR$/Day11/access.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11/error_rate_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day12/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day12/cluster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day12/input.json" afterDir="false" />
+    <list default="true" id="8f7ffb40-beed-41a3-af45-53e8f6038ddd" name="Changes" comment="New Challenge - kube failure report">
+      <change afterPath="$PROJECT_DIR$/Coditioning/campaigns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coditioning/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coditioning/instagram_likes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coditioning/sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day13/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day13/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day13/metrics_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/logs_api.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/pods.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day14/system_health_config_audit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day 2/access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day 2/cleanup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day 2/log_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day 2/syscall_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day1/jsonFileReader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day1/jsonFileReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day1/lineCounter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day3/Page-API-Fetcher/api_fetcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day3/Page-API-Fetcher/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day3/Page-API-Fetcher/db.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day3/Page-API-Fetcher/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day3/Page-API-Fetcher/users_full.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day3/app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day3/health-check-orchestrator/orch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day3/health-check-orchestrator/targets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/Day3/logfileAnalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SysAdmin/access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cost_effective_ad_campaigns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/stdin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day15/subproces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/dirsizereport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emailPattern.pu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ip_addr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/troubleshooting.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day11/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,35 +86,53 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Counter.executor": "Run",
     "Python.Day1_script.executor": "Run",
     "Python.alert_report.executor": "Run",
     "Python.analyze_errors.executor": "Run",
+    "Python.api_fetcher.executor": "Run",
     "Python.autoscaler.executor": "Run",
     "Python.backup_schedule_report.executor": "Run",
+    "Python.campaigns.executor": "Run",
     "Python.cluster.executor": "Run",
     "Python.compliance_summary.executor": "Run",
     "Python.config_drift_report.executor": "Run",
+    "Python.dirsizereport.executor": "Run",
+    "Python.emailPattern.pu.executor": "Run",
     "Python.error_rate_calculator.executor": "Run",
     "Python.health_summary.executor": "Run",
+    "Python.instagram_likes.executor": "Run",
+    "Python.lineCounter.executor": "Run",
+    "Python.log.executor": "Run",
+    "Python.log_analyzer.executor": "Run",
     "Python.log_freq_analyzer.executor": "Run",
+    "Python.logfileAnalysis.executor": "Run",
+    "Python.metrics_builder.executor": "Run",
+    "Python.stdin.executor": "Run",
+    "Python.subproces.executor": "Run",
     "Python.summarize_metrics.executor": "Run",
+    "Python.syscall_report.executor": "Run",
+    "Python.system_health_config_audit.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/keerthnavivek/PycharmProjects/PythonProject1/Day12",
+    "last_opened_file_path": "/Users/keerthnavivek/PycharmProjects/PythonProject1/SysAdmin/Day3/health-check-orchestrator",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Day12" />
-      <recent name="$PROJECT_DIR$/Day11" />
-      <recent name="$PROJECT_DIR$/Day1-timesheet" />
-      <recent name="$PROJECT_DIR$/day2-log frequency analyzer" />
-      <recent name="$PROJECT_DIR$/Day3" />
+      <recent name="$PROJECT_DIR$/SysAdmin/Day3/health-check-orchestrator" />
+      <recent name="$PROJECT_DIR$/SysAdmin/Day3/Page-API-Fetcher" />
+      <recent name="$PROJECT_DIR$/SysAdmin/Day3" />
+      <recent name="$PROJECT_DIR$/Day14" />
+      <recent name="$PROJECT_DIR$/Day13" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SysAdmin/Day 2" />
       <recent name="$PROJECT_DIR$/Day10" />
       <recent name="$PROJECT_DIR$/Day1-timesheet" />
     </key>
@@ -180,7 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753671952819</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="New Challenge - kube failure report">
+      <option name="closed" value="true" />
+      <created>1753835352617</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753835352617</updated>
+    </task>
+    <task id="LOCAL-00012" summary="New Challenge - kube failure report">
+      <option name="closed" value="true" />
+      <created>1753835361174</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1753835361174</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,7 +260,8 @@
     <MESSAGE value="python challenges - day10" />
     <MESSAGE value="python challenges - day11" />
     <MESSAGE value="readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+    <MESSAGE value="New Challenge - kube failure report" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Challenge - kube failure report" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,0 +1,5 @@
+Hello John, please email me at john.doe@example.com for the details.
+You can also reach out to jane_smith123@work-mail.org if John is unavailable.
+Reminder: send the report to reports@company.com and cc to jane_smith123@work-mail.org.
+No emails here!
+Contact: admin@site.net

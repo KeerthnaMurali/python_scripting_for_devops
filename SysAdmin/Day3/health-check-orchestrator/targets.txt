@@ -1,0 +1,23 @@
+# HTTP checks (tool should call: curl http://<target>/health)
+http://service-a.local
+http://service-b.local:8080
+http://api.internal.local
+http://10.0.0.10
+http://example.com
+http://gateway.local:8000
+
+# TCP checks (no scheme → nc host port)
+127.0.0.1:22
+localhost:5432
+db.prod.local:5432
+redis.cache.local:6379
+kafka.broker.local:9092
+smtp.mail.local:25
+elasticsearch.local:9200
+nginx.edge.local:443
+consul.local:8500
+vault.local:8200
+rabbitmq.local:5672
+prometheus.local:9090
+jenkins.ci.local:8080
+minio.s3.local:9000
